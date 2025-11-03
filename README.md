@@ -47,7 +47,7 @@
 
 # 🗃️ Estrutura do repositório
    ```bash
-📂 Teste_Analytics_BrunoManganotiDeLara
+📂 projeto_analytics
 │
 ├── 📁 img # Imagens auxiliares
 │
@@ -89,9 +89,9 @@ Siga as etapas de configuração abaixo para o funcionamento correto dos scripts
 
 ## 1️⃣ Clone o repositório
    ```bash
-   git clone https://github.com/brunomanganoti/Teste_Analytics_BrunoManganotiDeLara.git
+   git clone https://github.com/brunomanganoti/projeto_analytics.git
 
-   cd Teste_Analytics_BrunoManganotiDeLara
+   cd projeto_analytics
    ```
 ## 2️⃣ Instale as dependências do projeto
    ```bash
